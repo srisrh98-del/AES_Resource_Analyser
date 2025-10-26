@@ -1,7 +1,7 @@
 # AES_Resource_Analyser
 
 **A Quantum Cybersecurity Incident Simulator**  
-Developed for the **QPoland Quantum Hackathon** 
+Developed for the **QPoland Quantum Hackathon**  by Sri Harsha N.C and Noor Ul Ain Faisal 
 
 This is a **real-time cybersecurity incident simulator** that uses **quantum cryptography benchmarking**  
 It allows security analysts and researchers to **visualize**, **simulate**, and **plan** their defense strategies against future quantum-enabled threats.
