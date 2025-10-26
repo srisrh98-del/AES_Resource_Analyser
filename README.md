@@ -15,7 +15,7 @@ This project leverages both **classical and quantum-computing principles** to:
 - Generate actionable **risk recommendations** and an **summary reports** automatically.
 
 
-##**Procedure**
+## Procedure 
 
 - Run all cells one by one in the Jupyter Notebook 
 - The final cell launches the dashboard 
