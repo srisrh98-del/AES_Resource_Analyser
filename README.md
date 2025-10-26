@@ -20,6 +20,7 @@ This project leverages both **classical and quantum-computing principles** to:
 - Run all cells one by one in the Jupyter Notebook 
 - The final cell launches the dashboard 
 - It is user interactive and dynmaically updates based on user inputs.
+- The code is here:  https://github.com/srisrh98-del/AES_Resource_Analyser/blob/main/src/Dashboard_Code.ipynb
 
 ## Live Demo Link 
 
