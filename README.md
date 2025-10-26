@@ -1,6 +1,6 @@
 # AES_Resource_Analyser
 
-**A Quantum Cybersecurity Incident Simulator  
+**A Quantum Cybersecurity Incident Simulator**  
 Developed for the **QPoland Quantum Hackathon** 
 
 This is a **real-time cybersecurity incident simulator** that uses **quantum cryptography benchmarking**  
@@ -14,6 +14,12 @@ This project leverages both **classical and quantum-computing principles** to:
 - Evaluation of  **containment effectiveness** using quantum optimization techniques like **QAOA**.  
 - Generate actionable **risk recommendations** and an **summary reports** automatically.
 
+
+##**Procedure**
+
+- Run all cells one by one in the Jupyter Notebook 
+- The final cell launches the dashboard 
+- It is user interactive and dynmaically updates based on user inputs.
 
 ## Live Demo Link 
 
